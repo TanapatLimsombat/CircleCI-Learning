@@ -1,0 +1,6 @@
+{
+  "name": "circleci_learning",
+  "dependencies": {
+    "jquery": "~3.1.1"
+  }
+}
